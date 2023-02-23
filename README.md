@@ -1,2 +1,2 @@
-# Seguno-Prep-Course-Henry
+# Segundo-Prep-Course-Henry
 Es un repositorio del segundo prepcourse de Henry
